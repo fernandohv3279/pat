@@ -1,0 +1,10 @@
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/rebuild_cache.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/edit_cache.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/strip_comments.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/distclean.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/runclean.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/release.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/debug.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/run.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/info.dir
+/home/fer/deal.ii-candi/deal.II-v9.2.0/pat/st3/CMakeFiles/step-3.dir
